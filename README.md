@@ -25,7 +25,7 @@ If you have any resources that you think would be useful to add to this list, pl
 
 ### Videos
 - [Decision markets and Futarchy](https://www.youtube.com/watch?v=PRog7R37MA0)
-
+- [Curtis Yarvin vs Robin Hanson - Debate Monarchy vs Futarchy 2010](https://www.youtube.com/watch?v=yIkrfdSQk4w)
 
 ### Crypto projects
 - [Gnosis conditional tokens](https://docs.gnosis.io/conditionaltokens/docs/introduction1)
